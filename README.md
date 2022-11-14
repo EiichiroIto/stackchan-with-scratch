@@ -1,7 +1,7 @@
 # stackchan-with-scratch
 Control Stack-Chan with Scratch3
 
-![image](/home/itoh/Research/robots/stack-chan/stackchan-with-scratch/images/stack-chan.jpg)
+![image](https://raw.githubusercontent.com/EiichiroIto/stackchan-with-scratch/main/images/stack-chan.jpg)
 
 やまなしテクノICTメッセ 2022 へ出展した際のスタックチャンに関する資料です。
 
